@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there 
 
-<!--
+Nextile is a company composed of members who always look forward with hope for the future, gathering to achieve their dream of creating the games they want.
 
-**Here are some ideas to get you started:**
+Nextile's unique ideas, execution, and design.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ultimately, bringing joy to the players.
+
+**That is the GameChanger that only Nextile can achieve.**
